@@ -5,4 +5,6 @@ This repository contains various ressources for the submitted paper:
 - schema/ contains the schema describing the datasets used in the experiments
 - mined_rules/ contains the rules mined over the 2 datasets
 - models_performances/ shows the embedding models performances over the 2 datasets
-- tutorials/ show 2 tutorials and how to use our code to mine DCR on KGs
+- DCREmbeddings/ contains:
+    - two folders containing code to mine DCR (dcr_discovery/ and similarity_search/)
+    - tutorials/ that shows how to use our code to mine DCR on KGs by applying our functions in a tutorial
