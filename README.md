@@ -7,4 +7,4 @@ This repository contains various ressources for the submitted paper:
 - models_performances/ shows the embedding models performances over the 2 datasets
 - DCREmbeddings/ contains:
     - two folders containing code to mine DCR (dcr_discovery/ and similarity_search/)
-    - tutorials/ that shows how to use our code to mine DCR on KGs by applying our functions in a tutorial
+    - tutorials/ that shows how to use our code to mine DCR on KGs by applying our functions in a tutorial. It also shows the experiment done in the paper.
